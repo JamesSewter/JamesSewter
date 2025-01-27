@@ -8,7 +8,7 @@ I am enthusiastic about coding and creating helpful and fun products/services.
 
 ** **
 
-##My projects:
+## My projects:
 
 **1) Decision-making app (group):**
    
@@ -28,7 +28,7 @@ I am enthusiastic about coding and creating helpful and fun products/services.
       - Back-end: https://github.com/JamesSewter/Northcoders-News-API
 
 ** ** 
-##Contact
+## Contact
 
 I am looking forward to making more projects and learning more each day! 
 
