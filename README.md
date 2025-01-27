@@ -11,7 +11,9 @@ I am enthusiastic about coding and creating helpful and fun products/services.
 Feel free to check out my projects:
 
 1) Multiplatform Decision making app (group):
+   
    **Video**: https://youtu.be/PdEE0mDj6Qo
+
    **App**: https://decisions--88bemym06h.expo.app/
 
     You can look at the front-end and back-end repos here:
