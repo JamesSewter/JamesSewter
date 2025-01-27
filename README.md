@@ -2,13 +2,30 @@
 
 Hello, and welcome to my profile.
 
-I am currently enrolled on Northcoders Sofware Engineering bootcamp in JavaScript.
+I am an Aerospace Engineering MEng graduate who has has recently completed the Northcoders Sofware Engineering bootcamp in JavaScript.
 
-My first full-stack project is a news website: https://nc-news-js.netlify.app/
+I am enthusiastic about coding and creating helpful and fun products/services.
 
-You can look at the front-end and back-end repos here:
+** **
 
-- Front-end:https://github.com/JamesSewter/nc-news
-- Back-end: https://github.com/JamesSewter/Northcoders-News-API
+Feel free to check out my projects:
 
-I am looking forward to making more projects and learning more and more each day! 
+1) Multiplatform Decision making app (group): https://decisions--88bemym06h.expo.app/
+
+    You can look at the front-end and back-end repos here:
+      - Front-end: https://github.com/JamesSewter/decisions-fe
+      - Back-end: https://github.com/JamesSewter/decisions-api
+  Group Project collaborators (Abby Davis, Alexandre Izumi, Dhiran Sodha, James Sewter, Wren Hawthorne, and Zeineb Mukhtar)
+
+2) News website (solo): https://nc-news-js.netlify.app/
+
+    You can look at the front-end and back-end repos here:
+      - Front-end:https://github.com/JamesSewter/nc-news
+      - Back-end: https://github.com/JamesSewter/Northcoders-News-API
+
+** ** 
+  
+I am looking forward to making more projects and learning more each day! 
+
+Contact me via [LinkedIn](https://www.linkedin.com/in/james-sewter/)
+
