@@ -10,14 +10,16 @@ I am enthusiastic about coding and creating helpful and fun products/services.
 
 Feel free to check out my projects:
 
-1) Multiplatform Decision making app (group): https://decisions--88bemym06h.expo.app/
+1) Multiplatform Decision making app (group):
+   **Video**: https://youtu.be/PdEE0mDj6Qo
+   **App**: https://decisions--88bemym06h.expo.app/
 
     You can look at the front-end and back-end repos here:
       - Front-end: https://github.com/JamesSewter/decisions-fe
       - Back-end: https://github.com/JamesSewter/decisions-api
   Group Project collaborators (Abby Davis, Alexandre Izumi, Dhiran Sodha, James Sewter, Wren Hawthorne, and Zeineb Mukhtar)
 
-2) News website (solo): https://nc-news-js.netlify.app/
+3) News website (solo): https://nc-news-js.netlify.app/
 
     You can look at the front-end and back-end repos here:
       - Front-end:https://github.com/JamesSewter/nc-news
