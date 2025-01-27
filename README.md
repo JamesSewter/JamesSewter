@@ -26,9 +26,9 @@ This app allows users to make decisions more easily. It utilises socket.io to en
       - Back-end: https://github.com/JamesSewter/decisions-api
   Group Project collaborators (Abby Davis, Alexandre Izumi, Dhiran Sodha, James Sewter, Wren Hawthorne, and Zeineb Mukhtar)
 
-### **2) News website (solo): 
+### **2) News website (solo):**
 
-https://nc-news-js.netlify.app/**
+https://nc-news-js.netlify.app/
 
 #### Description 
 Web application allowing a hard coded user (named jessjelly) to read news articles. Articles can be filtered by topic and sorted by date and votes. 
