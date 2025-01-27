@@ -1,4 +1,4 @@
-## Hi there, this is my profile README.
+## My profile
 
 Hello, and welcome to my profile.
 
