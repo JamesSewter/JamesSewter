@@ -2,7 +2,7 @@
 
 Hello, and welcome to my profile.
 
-I am an Aerospace Engineering MEng graduate now working as Software Engineer at [Project Ark](https://communities.projectark.co.uk/company/about-us). 
+I am an Aerospace Engineering MEng graduate now working as Software Engineer.
 
 I am enthusiastic about coding and creating helpful and fun products/services.
 
