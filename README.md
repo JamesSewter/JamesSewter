@@ -2,15 +2,13 @@
 
 Hello, and welcome to my profile.
 
-I am an Aerospace Engineering MEng graduate now working as Software Engineer.
+Aerospace Engineering MEng graduate now working as Software Engineer.
 
-I am enthusiastic about coding and creating helpful and fun products/services.
+I am enthusiastic about using logic to create helpful and fun products/services.
 
 ** **
 
 ## Contact
-
-I am looking forward to making more projects and learning more each day! 
 
 Contact me via [LinkedIn](https://www.linkedin.com/in/james-sewter/)
 
